@@ -13,7 +13,7 @@ python quantize.py Matematiques
 ## 🎯 Característiques principals
 - Multiformat de dataset (text / instruction / mixt)
 - Multiidioma (Català i Castellà)
-- Optimitzat per Qwen 2.5 (4-bit NF4 + LoRA)
+- Optimitzat per models petits(4-bit NF4 + LoRA)
 - Workflow complet de PDF → Dataset → LoRA → HF → GGUF → Quantitzat
 - Anàlisi automàtica d’entrenament
 - Totalment local
