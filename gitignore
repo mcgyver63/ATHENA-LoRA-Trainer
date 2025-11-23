@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Editors
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Datasets and PDFs
+datasets/
+input_pdfs/
+
+# Model outputs
+models/
+output/
+trained_models/
+
+# GGUF and heavy binaries
+*.gguf
+*.safetensors
+
+# Checkpoints
+checkpoint-*/
