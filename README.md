@@ -1,0 +1,3 @@
+# 🧠 ATHENA - Entrenament LoRA Multiformat
+
+... (Catalan content trimmed for brevity in this example) ...
