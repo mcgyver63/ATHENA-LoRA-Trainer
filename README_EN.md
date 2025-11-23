@@ -13,7 +13,7 @@ python quantize.py Mathematics
 ## 🎯 Key Features
 - Multi-format dataset detection
 - Multi-language (Catalan & Spanish)
-- Qwen 2.5 optimized (4-bit NF4 + LoRA)
+- Little models optimized (4-bit NF4 + LoRA)
 - Full pipeline: PDF → Dataset → LoRA → HF → GGUF → Quantized
 - Automatic training analysis
 - Fully local and offline friendly
